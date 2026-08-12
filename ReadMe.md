@@ -1,0 +1,1 @@
+A distributed e-commerce system built as a hands-on microservices project to understand how real-world services communicate, authenticate requests, handle failures, process events, and maintain consistency across distributed systems.
