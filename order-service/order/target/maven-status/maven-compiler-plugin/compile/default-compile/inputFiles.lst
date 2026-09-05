@@ -1,0 +1,17 @@
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\config\RestTemplateConfig.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\controller\OrderController.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\dto\OrderResponse.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\dto\PaymentDtos.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\dto\PlaceOrderRequest.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\dto\ProductResponse.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\dto\StockOperationRequest.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\entity\CustomerOrder.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\entity\OrderItem.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\entity\OrderStatus.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\entity\OutboxEvent.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\OrderServiceApplication.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\repository\CustomerOrderRepository.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\repository\OrderItemRepository.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\repository\OutboxEventRepository.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\service\impl\OrderServiceImpl.java
+C:\Dev\microservices\Micro-Commerce\order-service\order\src\main\java\com\ecommerce\order\service\OrderService.java
